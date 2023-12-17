@@ -34,10 +34,9 @@ hr {
 }
 
 a {
-    color: #11999E;
-    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
     margin: 10px 20px;
-    text-decoration: none;
+    font-size: 27px;
 }
 
 a:hover {  
@@ -54,8 +53,13 @@ p {
     padding-top: 100px;
 }
 
-.pro {
-    text-decoration : underline #a371f7;
+.auto-typed {
+    color: #a371f7;
+    font-family: 'Caveat';
+    font-size: 50px;
+}
+.typed-cursor {
+    color: #a371f7;
 }
 
 .top-cloud {
