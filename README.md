@@ -1,12 +1,13 @@
 # Software Developer &nbsp; | &nbsp; Artist &nbsp; | &nbsp; NLP Enthusiast
 <br>
 ## A little about me...
-- I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain.
-- I work on Software Globalization at Adobe. Frontend development excites me, and my current area of research is Natural Language Processing in Indic languages.
+- I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain. I'm currently a grad student at New York University - Tandon School of Engineering.
+- Previously I've worked on Software Globalization at Adobe. Frontend development excites me, and my current area of research is Natural Language Processing in Indic languages.
 - Outside of work hours, I like to read novels, watch movies, and look at flowers.
 
 ## Education
-B.E., Information Technology | Netaji Subhas Institute of Technology, University of Delhi _(2020)_
+- M.S., Computer Engineering | Tandon School of Engineering, New York University _(Expected May 2026)_
+- B.E., Information Technology | Netaji Subhas Institute of Technology, University of Delhi _(2020)_
 
 ## Technical Skills
 I am passionate about building and designing products. Working on software localization, I play the language game for content so that customers get to communicate with products in their own languages.<br>
@@ -33,4 +34,3 @@ I have an eye for good aesthetics. I'm extremely selective about fonts, and I en
 
 ### Get in touch!
 [LinkedIn](https://www.linkedin.com/in/mahimasachdeva/) &nbsp;
-[Instagram](https://www.instagram.com/wrongsock/)
