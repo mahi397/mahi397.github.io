@@ -2,7 +2,7 @@
 <br>
 ## A little about me...
 - I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain. I'm currently a grad student at New York University - Tandon School of Engineering.
-- Previously I've worked on Software Globalization at Adobe. Frontend development excites me, and my current area of research is Natural Language Processing in Indic languages.
+- Previously I've worked on Software Globalization at **Adobe**. Frontend development excites me, and my current area of research is Natural Language Processing in Indic languages.
 - Outside of work hours, I like to read novels, watch movies, and look at flowers.
 
 ## Education
