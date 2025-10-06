@@ -1,9 +1,10 @@
-# Software Developer &nbsp; | &nbsp; Artist &nbsp; | &nbsp; NLP Enthusiast
+# Software Developer &nbsp;
 <br>
 ## A little about me...
-- I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain. I'm currently a grad student at New York University - Tandon School of Engineering.
+- I graduated from NSIT with a Bachelors in Information Technology, and have since been working in the software engineering domain. I'm currently a grad student at New York University.
+- I interned at Amazon Prime Video during the summer of 2025. I worked on a feature called AI Topics which is aimed at enhancing content discovery on Prime Video. I used Kotlin, TypeScript and the AWS CDK which turned out to be a huge learning curve. It was a challenging and fun summer, and my team was the best everrr.
 - Previously I've worked on Software Globalization at **Adobe**. Frontend development excites me, and my current area of research is Natural Language Processing in Indic languages.
-- Outside of work hours, I like to read novels, watch movies, and look at flowers.
+- Outside of work hours, I like to read novels, watch movies, look at flowers and clouds.
 
 ## Education
 - M.S., Computer Engineering | Tandon School of Engineering, New York University _(Expected May 2026)_
